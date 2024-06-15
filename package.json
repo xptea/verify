@@ -5,7 +5,8 @@
   "main": "index.js",
   "author": "alphasec",
   "license": "MIT",
-   "dependencies": {
+  "dependencies": {
+    "discord.js": "^14.15.3"
   },
   "scripts": {
     "start": "node index.js"
